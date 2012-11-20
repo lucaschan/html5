@@ -1,0 +1,44 @@
+[
+{
+	"colour": [
+		//red,green,blue,yellow.
+		{ "colour":"blue"}
+	],
+	"id":[
+		{ "id":"HI" , "value":"251" ,   "tooltip":"251"   , "Hlink":"map-usa.html" },
+		{ "id":"AK" , "value":"130" ,   "tooltip":"130"   , "Hlink":"map-usa.html" },
+		{ "id":"FL" , "value":"2617" ,  "tooltip":"2617"  , "Hlink":"map-usa.html" },
+		{ "id":"NH" , "value":"12"   ,  "tooltip":"12"    , "Hlink":"map-usa.html" },
+		{ "id":"MI" , "value":"42"   ,  "tooltip":"42"    , "Hlink":"map-usa.html" },
+		{ "id":"SP-" ,"value":"31043" , "tooltip":"31043"  , "Hlink":"map-usa.html" },
+		{ "id":"VT" , "value":"3725" ,  "tooltip":"3725"   , "Hlink":"map-usa.html" },
+		{ "id":"ME" , "value":"3198" ,  "tooltip":"3198"   , "Hlink":"map-usa.html" },
+		{ "id":"RI" , "value":"6628" ,  "tooltip":"6628"   , "Hlink":"map-usa.html" },
+		{ "id":"NY" , "value":"17978" , "tooltip":"17978"  , "Hlink":"map-usa.html" },
+		{ "id":"PA" , "value":"4313" ,  "tooltip":"4313"   , "Hlink":"map-usa.html" },
+		{ "id":"NJ" , "value":"13437" , "tooltip":"13437"  , "Hlink":"map-usa.html" },
+		{ "id":"DE" , "value":"14511" , "tooltip":"14511"  , "Hlink":"map-usa.html" },
+		{ "id":"MD" , "value":"27541" , "tooltip":"27541"  , "Hlink":"map-usa.html" },
+		{ "id":"VA" , "value":"29723" , "tooltip":"29723"  , "Hlink":"map-usa.html" },
+		{ "id":"WV" , "value":"24218" , "tooltip":"24218"  , "Hlink":"map-usa.html" },
+		{ "id":"OH" , "value":"15833" , "tooltip":"15833"  , "Hlink":"map-usa.html" },
+		{ "id":"IN" , "value":"21506" , "tooltip":"21506"  , "Hlink":"map-usa.html" },
+		{ "id":"IL" , "value":"9105" ,  "tooltip":"9105"   , "Hlink":"map-usa.html" },
+		{ "id":"CT" , "value":"27241" , "tooltip":"27241"  , "Hlink":"map-usa.html" },
+		{ "id":"WI" , "value":"8792" ,  "tooltip":"8792"   , "Hlink":"map-usa.html" },
+		{ "id":"NC" , "value":"31288" , "tooltip":"31288"  , "Hlink":"map-usa.html" },
+		{ "id":"DC" , "value":"31262" , "tooltip":"31262"  , "Hlink":"map-usa.html" },
+		{ "id":"MA" , "value":"22053" , "tooltip":"22053"  , "Hlink":"map-usa.html" },
+		{ "id":"TN" , "value":"2371" ,  "tooltip":"2371"   , "Hlink":"map-usa.html" },
+		{ "id":"AR" , "value":"9883" ,  "tooltip":"9883"   , "Hlink":"map-usa.html" },
+		{ "id":"MO" , "value":"20656" , "tooltip":"20656"  , "Hlink":"map-usa.html" },
+		{ "id":"GA" , "value":"6593" ,  "tooltip":"6593"   , "Hlink":"map-usa.html" },
+		{ "id":"SC" , "value":"22769" , "tooltip":"22769"  , "Hlink":"map-usa.html" },
+		{ "id":"KY" , "value":"16824" , "tooltip":"16824"  , "Hlink":"map-usa.html" },
+		{ "id":"AL" , "value":"28659" , "tooltip":"28659"  , "Hlink":"map-usa.html" },
+		{ "id":"LA" , "value":"19915" , "tooltip":"19915"  , "Hlink":"map-usa.html" },
+		{ "id":"MS" , "value":"20332" , "tooltip":"20332"  , "Hlink":"map-usa.html" },
+		{ "id":"IA" , "value":"6336" ,  "tooltip":"6336"   , "Hlink":"map-usa.html" }
+	]
+}
+]

@@ -1,0 +1,40 @@
+{
+ "template" : "line_basic_6",
+ "chartTitle":"test",
+
+ "divId" : "chart",
+
+ "values":{
+    "serie1":[80, 20, 31, 150],
+    "serie2":[100, 23, 58, 91]
+ },
+ "tooltips":{
+    "serie1":["a", "b", "c", "d"],
+    "serie2":["a", "b", "c", "d"]
+ },
+
+ "color":{
+    "serie1":{
+        "color":"red"
+    },
+    "serie2":{
+        "color":"blue"
+    }
+ },
+
+ "labels":["first","second","third","fourth"],
+
+ "axis" : {
+	"l":{
+	    "title":"height"
+	  },
+	"x":{
+	    "title":"name"
+	  }
+	},
+
+ "legend":{
+        "serie1":"abc",
+        "serie2":"def"
+       }
+}
