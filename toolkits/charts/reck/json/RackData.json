@@ -1,0 +1,622 @@
+{    "Rack":[  
+        {
+            "Name" : "Rack1",
+            "Desc" : "Descript the information of the rack",
+            "Position": 1,
+            "Series": [
+                {
+                    "machineName": "bws0300",
+		    "ip":"192.168.57.60",
+                    "position": 1,
+                    "height": 2,
+                    "picture": "",
+                    "description": "bes node",
+		    "load": 6,
+                    "dataSource": "http://ganglia.ihep.ac.cn/gweb/?c=BWS1%20FARM&h=bws0300.ihep.ac.cn&m=cpu_report&r=hour&s=descending&hc=4&mc=2"
+                },
+                {
+                    "machineName": "bws0301",
+                    "ip":"192.168.57.61",
+                    "position": 1,
+                    "height": 2,
+                    "picture": "",
+                    "description": "bes node",
+		    "load": 54,
+                    "dataSource": "http://ganglia.ihep.ac.cn/gweb/?c=BWS1%20FARM&h=bws0301.ihep.ac.cn&m=cpu_report&r=hour&s=descending&hc=4&mc=2"                    
+                },
+                {
+                    "machineName": "bws0302",
+                    "ip":"192.168.57.62",
+                    "position": 1,
+                    "height": 2,
+                    "picture": "",
+                    "description": "bes node",
+		    "load": 4,
+                    "dataSource": "http://ganglia.ihep.ac.cn/gweb/?c=BWS1%20FARM&h=bws0302.ihep.ac.cn&m=cpu_report&r=hour&s=descending&hc=4&mc=2"
+                },
+                {
+                    "machineName": "bws0303",
+                    "ip":"192.168.57.63",
+                    "position": 1,
+                    "height": 2,
+                    "picture": "",
+                    "description": "bes node",
+		    "load": 4,
+                    "dataSource": "http://ganglia.ihep.ac.cn/gweb/?c=BWS1%20FARM&h=bws0303.ihep.ac.cn&m=cpu_report&r=hour&s=descending&hc=4&mc=2"                    
+                },
+                {
+                    "machineName": "bws0304",
+                    "ip":"192.168.57.64",
+                    "position": 1,
+                    "height": 2,
+                    "picture": "",
+                    "description": "bes node",
+		    "load": 10,
+                    "dataSource": "http://ganglia.ihep.ac.cn/gweb/?c=BWS1%20FARM&h=bws0304.ihep.ac.cn&m=cpu_report&r=hour&s=descending&hc=4&mc=2"
+                },
+                {
+                    "machineName": "bws0305",
+                    "position": 1,
+                    "ip":"192.168.57.65",
+                    "height": 2,
+                    "picture": "",
+                    "description": "bes node",
+		    "load": 5,
+                    "dataSource": "http://ganglia.ihep.ac.cn/gweb/?c=BWS1%20FARM&h=bws0305.ihep.ac.cn&m=cpu_report&r=hour&s=descending&hc=4&mc=2"                    
+                },
+                {
+                    "machineName": "bws0306",
+                    "ip":"192.168.57.66",
+                    "position": 1,
+                    "height": 2,
+                    "picture": "",
+                    "description": "bes node",
+		    "load": 5,
+                    "dataSource": "http://ganglia.ihep.ac.cn/gweb/?c=BWS1%20FARM&h=bws0306.ihep.ac.cn&m=cpu_report&r=hour&s=descending&hc=4&mc=2"
+                },
+                {
+                    "machineName": "bws0307",
+                    "ip":"192.168.57.67",
+                    "position": 1,
+                    "height": 2,
+                    "picture": "",
+                    "description": "bes node",
+		    "load": 5,
+                    "dataSource": "http://ganglia.ihep.ac.cn/gweb/?c=BWS1%20FARM&h=bws0307.ihep.ac.cn&m=cpu_report&r=hour&s=descending&hc=4&mc=2"                    
+                },
+                {
+                    "machineName": "bws0308",
+                    "ip":"192.168.57.68",
+                    "position": 1,
+                    "height": 2,
+                    "picture": "",
+                    "description": "bes node",
+		    "load": 5,
+                    "dataSource": "http://ganglia.ihep.ac.cn/gweb/?c=BWS1%20FARM&h=bws0308.ihep.ac.cn&m=cpu_report&r=hour&s=descending&hc=4&mc=2"
+                },
+                {
+                    "machineName": "bws0309",
+                    "ip":"192.168.57.69",
+                    "position": 1,
+                    "height": 2,
+                    "picture": "",
+                    "description": "bes node",
+		    "load": 5,
+                    "dataSource": "http://ganglia.ihep.ac.cn/gweb/?c=BWS1%20FARM&h=bws0309.ihep.ac.cn&m=cpu_report&r=hour&s=descending&hc=4&mc=2"                    
+                },
+                {
+                    "machineName": "bws0310",
+                    "ip":"192.168.57.70",
+                    "position": 1,
+                    "height": 2,
+                    "picture": "",
+                    "description": "bes node",
+		    "load": 5,
+                    "dataSource": "http://ganglia.ihep.ac.cn/gweb/?c=BWS1%20FARM&h=bws0310.ihep.ac.cn&m=cpu_report&r=hour&s=descending&hc=4&mc=2"
+                },
+                {
+                    "machineName": "bws0311",
+                    "ip":"192.168.57.71",
+                    "position": 1,
+                    "height": 2,
+                    "picture": "",
+                    "description": "bes node",
+		    "load": 5,
+                    "dataSource": "http://ganglia.ihep.ac.cn/gweb/?c=BWS1%20FARM&h=bws0311.ihep.ac.cn&m=cpu_report&r=hour&s=descending&hc=4&mc=2"                    
+                },
+                {
+                    "machineName": "bws0312",
+                    "ip":"192.168.57.72",
+                    "position": 1,
+                    "height": 2,
+                    "picture": "",
+                    "description": "bes node",
+		    "load": 5,
+                    "dataSource": "http://ganglia.ihep.ac.cn/gweb/?c=BWS1%20FARM&h=bws0312.ihep.ac.cn&m=cpu_report&r=hour&s=descending&hc=4&mc=2"
+                },
+                {
+                    "machineName": "bws0313",
+                    "ip":"192.168.57.73",
+                    "position": 1,
+                    "height": 2,
+                    "picture": "",
+                    "description": "bes node",
+		    "load": 5,
+                    "dataSource": "http://ganglia.ihep.ac.cn/gweb/?c=BWS1%20FARM&h=bws0313.ihep.ac.cn&m=cpu_report&r=hour&s=descending&hc=4&mc=2"                    
+                },
+                {
+                    "machineName": "bws0314",
+                    "ip":"192.168.57.74",
+                    "position": 1,
+                    "height": 2,
+                    "picture": "",
+                    "description": "bes node",
+		    "load": 5,
+                    "dataSource": "http://ganglia.ihep.ac.cn/gweb/?c=BWS1%20FARM&h=bws0314.ihep.ac.cn&m=cpu_report&r=hour&s=descending&hc=4&mc=2"
+                },
+                {
+                    "machineName": "bws0315",
+                    "ip":"192.168.57.75",
+                    "position": 1,
+                    "height": 2,
+                    "picture": "",
+                    "description": "bes node",
+		    "load": 5,
+                    "dataSource": "http://ganglia.ihep.ac.cn/gweb/?c=BWS1%20FARM&h=bws0315.ihep.ac.cn&m=cpu_report&r=hour&s=descending&hc=4&mc=2"                    
+                },
+                {
+                    "machineName": "bws0316",
+                    "ip":"192.168.57.76",
+                    "position": 1,
+                    "height": 2,
+                    "picture": "",
+                    "description": "bes node",
+		    "load": 5,
+                    "dataSource": "http://ganglia.ihep.ac.cn/gweb/?c=BWS1%20FARM&h=bws0316.ihep.ac.cn&m=cpu_report&r=hour&s=descending&hc=4&mc=2"
+                },
+                {
+                    "machineName": "bws0317",
+                    "ip":"192.168.57.77",
+                    "position": 1,
+                    "height": 2,
+                    "picture": "",
+                    "description": "bes node",
+		    "load": 5,
+                    "dataSource": "http://ganglia.ihep.ac.cn/gweb/?c=BWS1%20FARM&h=bws0317.ihep.ac.cn&m=cpu_report&r=hour&s=descending&hc=4&mc=2"                    
+                },
+                {
+                    "machineName": "bws0318",
+                    "ip":"192.168.57.78",
+                    "position": 1,
+                    "height": 2,
+                    "picture": "",
+                    "description": "bes node",
+		    "load": 5,
+                    "dataSource": "http://ganglia.ihep.ac.cn/gweb/?c=BWS1%20FARM&h=bws0318.ihep.ac.cn&m=cpu_report&r=hour&s=descending&hc=4&mc=2"
+                },
+                {
+                    "machineName": "bws0319",
+                    "ip":"192.168.57.79",
+                    "position": 1,
+                    "height": 2,
+                    "picture": "",
+                    "description": "bes node",
+		    "load": 5,
+                    "dataSource": "http://ganglia.ihep.ac.cn/gweb/?c=BWS1%20FARM&h=bws0319.ihep.ac.cn&m=cpu_report&r=hour&s=descending&hc=4&mc=2"                    
+                },
+                {
+                    "machineName": "bws0320",
+                    "ip":"192.168.57.80",
+                    "position": 1,
+                    "height": 2,
+                    "picture": "",
+                    "description": "bes node",
+		    "load": 5,
+                    "dataSource": "http://ganglia.ihep.ac.cn/gweb/?c=BWS1%20FARM&h=bws0320.ihep.ac.cn&m=cpu_report&r=hour&s=descending&hc=4&mc=2"
+                }
+            ]
+        },
+
+        {
+          
+            "Name" : "Rack2",
+            "Desc" : "Descript the information of the rack",
+            "Position": 1,
+            "Series": [
+                {
+                    "machineName": "cws021",
+		    "ip":"192.168.55.21",
+                    "position": 1,
+                    "height": 1,
+                    "picture": "",
+                    "description": "cms node",
+		    "load":5,
+                    "dataSource": "http://ganglia.ihep.ac.cn/gweb/?c=AWSCWS%20FARM&h=cws021.ihep.ac.cn&m=cpu_report&r=hour&s=descending&hc=4&mc=2"
+                },
+                {
+                    "machineName": "cws022",
+		    "ip":"192.168.55.22",
+                    "position": 1,
+                    "height": 2,
+                    "picture": "",
+                    "description": "cms node",
+		    "load":5,
+                    "dataSource": "file:///g:/WorkDir/doc/html5/机柜/bws0011.json"                    
+                },
+                {
+                    "machineName": "cws023",
+		    "ip":"192.168.55.23",
+                    "position": 1,
+                    "height": 1,
+                    "picture": "",
+                    "description": "cms node",
+		    "load":4,
+                    "dataSource": "file:///g:/WorkDir/doc/html5/机柜/bws0011.json"
+                },
+                {
+                    "machineName": "cws024",
+		    "ip":"192.168.55.24",
+                    "position": 1,
+                    "height": 1,
+                    "picture": "",
+                    "description": "cms node",
+		    "load":6,
+                    "dataSource": "file:///g:/WorkDir/doc/html5/机柜/bws0011.json"                    
+                },
+                {
+                    "machineName": "cws025",
+		    "ip":"192.168.55.25",
+                    "position": 1,
+                    "height": 1,
+                    "picture": "",
+                    "description": "cms node",
+		    "load":5,
+                    "dataSource": "file:///g:/WorkDir/doc/html5/机柜/bws0011.json"
+                },
+                {
+                    "machineName": "cws026",
+		    "ip":"192.168.55.26",
+                    "position": 1,
+                    "height": 1,
+                    "picture": "",
+                    "description": "cms node",
+		    "load":5,
+                    "dataSource": "file:///g:/WorkDir/doc/html5/机柜/bws0011.json"                    
+                },
+                {
+                    "machineName": "cws027",
+		    "ip":"192.168.55.27",
+                    "position": 1,
+                    "height": 1,
+                    "picture": "",
+                    "description": "cms node",
+		    "load":5,
+                    "dataSource": "file:///g:/WorkDir/doc/html5/机柜/bws0011.json"
+                },
+                {
+                    "machineName": "cws028",
+		    "ip":"192.168.55.28",
+                    "position": 1,
+                    "height": 1,
+                    "picture": "",
+                    "description": "cms node",
+		    "load":5,
+                    "dataSource": "file:///g:/WorkDir/doc/html5/机柜/bws0011.json"                    
+                },
+                {
+                    "machineName": "cws029",
+		    "ip":"192.168.55.29",
+                    "position": 1,
+                    "height": 1,
+                    "picture": "",
+                    "description": "cms node",
+		    "load":5,
+                    "dataSource": "file:///g:/WorkDir/doc/html5/机柜/bws0011.json"
+                },
+                {
+                    "machineName": "cws030",
+		    "ip":"192.168.55.30",
+                    "position": 1,
+                    "height": 1,
+                    "picture": "",
+                    "description": "cms node",
+		    "load":5,
+                    "dataSource": "file:///g:/WorkDir/doc/html5/机柜/bws0011.json"                    
+                },
+                {
+                    "machineName": "cws031",
+		    "ip":"192.168.55.31",
+                    "position": 1,
+                    "height": 1,
+                    "picture": "",
+                    "description": "cms node",
+		    "load":5,
+                    "dataSource": "file:///g:/WorkDir/doc/html5/机柜/bws0011.json"
+                },
+                {
+                    "machineName": "cws032",
+		    "ip":"192.168.55.32",
+                    "position": 1,
+                    "height": 2,
+                    "picture": "",
+                    "description": "cms node",
+		    "load":5,
+                    "dataSource": "file:///g:/WorkDir/doc/html5/机柜/bws0011.json"                    
+                },
+                {
+                    "machineName": "aws134",
+		    "ip":"192.168.55.134",
+                    "position": 1,
+                    "height": 2,
+                    "picture": "",
+                    "description": "atlas node",
+		    "load":5,
+                    "dataSource": "file:///g:/WorkDir/doc/html5/机柜/bws0011.json"
+                },
+                {
+                    "machineName": "aws135",
+		    "ip":"192.168.55.135",
+                    "position": 1,
+                    "height": 2,
+                    "picture": "",
+                    "description": "atlas node",
+		    "load":5,
+                    "dataSource": "file:///g:/WorkDir/doc/html5/机柜/bws0011.json"                    
+                },
+                {
+                    "machineName": "aws136",
+		    "ip":"192.168.55.136",
+                    "position": 1,
+                    "height": 2,
+                    "picture": "",
+                    "description": "atlas node",
+		    "load":8,
+                    "dataSource": "file:///g:/WorkDir/doc/html5/机柜/bws0011.json"
+                },
+                {
+                    "machineName": "aws137",
+		    "ip":"192.168.55.137",
+                    "position": 1,
+                    "height": 2,
+                    "picture": "",
+                    "description": "atlas ",
+		    "load":5,
+                    "dataSource": "file:///g:/WorkDir/doc/html5/机柜/bws0011.json"                    
+                },
+                {
+                    "machineName": "aws138",
+		    "ip":"192.168.55.138",
+                    "position": 1,
+                    "height": 2,
+                    "picture": "",
+                    "description": "atlas node",
+		    "load":5,
+                    "dataSource": "file:///g:/WorkDir/doc/html5/机柜/bws0011.json"
+                },
+                {
+                    "machineName": "aws139",
+		    "ip":"192.168.55.139",
+                    "position": 1,
+                    "height": 1,
+                    "picture": "",
+                    "description": "atlas node",
+		    "load":5,
+                    "dataSource": "file:///g:/WorkDir/doc/html5/机柜/bws0011.json"                    
+                },
+                {
+                    "machineName": "aws140",
+		    "ip":"192.168.55.140",
+                    "position": 1,
+                    "height": 1,
+                    "picture": "",
+                    "description": "atlas node",
+		    "load":5,
+                    "dataSource": "file:///g:/WorkDir/doc/html5/机柜/bws0011.json"
+                },
+                {
+                    "machineName": "aws141",
+		    "ip":"192.168.55.141",
+                    "position": 1,
+                    "height": 1,
+                    "picture": "",
+                    "description": "atlas node",
+		    "load":5,
+                    "dataSource": "file:///g:/WorkDir/doc/html5/机柜/bws0011.json"                    
+                },
+                {
+                    "machineName": "aws142",
+		    "ip":"192.168.55.142",
+                    "position": 1,
+                    "height": 1,
+                    "picture": "",
+                    "description": "atlas node",
+		    "load":5,
+                    "dataSource": "file:///g:/WorkDir/doc/html5/机柜/bws0011.json"
+                }
+                
+            ]
+        }
+        ,        
+        {
+          
+            "Name" : "Rack3",
+            "Desc" : "Descript the information of the rack",
+            "Position": 1,
+            "Series": [
+            {
+                    "machineName": "aws134",
+		    "ip":"192.168.55.134",
+                    "position": 1,
+                    "height": 2,
+                    "picture": "",
+                    "description": "atlas node",
+		    "load": 5,
+                    "dataSource": "http://ganglia.ihep.ac.cn/gweb/?c=AWSCWS%20FARM&h=aws134.ihep.ac.cn&m=cpu_report&r=hour&s=descending&hc=4&mc=2"
+            },
+            {
+                    "machineName": "aws0012",
+                    "position": 1,
+                    "height": 2,
+                    "picture": "",
+                    "description": "bes node",
+                    "dataSource": "file:///g:/WorkDir/doc/html5/机柜/bws0011.json"                    
+            },
+            {
+                    "machineName": "aws0013",
+                    "position": 1,
+                    "height": 2,
+                    "picture": "",
+                    "description": "bes node",
+                    "dataSource": "file:///g:/WorkDir/doc/html5/机柜/bws0011.json"
+            },
+            {
+                    "machineName": "aws0014",
+                    "position": 1,
+                    "height": 2,
+                    "picture": "",
+                    "description": "bes node",
+                    "dataSource": "file:///g:/WorkDir/doc/html5/机柜/bws0011.json"                    
+            },
+            {
+                    "machineName": "aws0015",
+                    "position": 1,
+                    "height": 2,
+                    "picture": "",
+                    "description": "bes node",
+                    "dataSource": "file:///g:/WorkDir/doc/html5/机柜/bws0011.json"
+            },
+            {
+                    "machineName": "aws0016",
+                    "position": 1,
+                    "height": 2,
+                    "picture": "",
+                    "description": "bes node",
+                    "dataSource": "file:///g:/WorkDir/doc/html5/机柜/bws0011.json"                    
+            },
+            {
+                    "machineName": "aws0017",
+                    "position": 1,
+                    "height": 2,
+                    "picture": "",
+                    "description": "bes node",
+                    "dataSource": "file:///g:/WorkDir/doc/html5/机柜/bws0011.json"
+            },
+            {
+                    "machineName": "aws0018",
+                    "position": 1,
+                    "height": 2,
+                    "picture": "",
+                    "description": "bes node",
+                    "dataSource": "file:///g:/WorkDir/doc/html5/机柜/bws0011.json"                    
+            },
+            {
+                    "machineName": "aws0019",
+                    "position": 1,
+                    "height": 2,
+                    "picture": "",
+                    "description": "bes node",
+                    "dataSource": "file:///g:/WorkDir/doc/html5/机柜/bws0011.json"
+            },
+            {
+                    "machineName": "aws0020",
+                    "position": 1,
+                    "height": 2,
+                    "picture": "",
+                    "description": "bes node",
+                    "dataSource": "file:///g:/WorkDir/doc/html5/机柜/bws0011.json"                    
+            },
+            {
+                    "machineName": "aws0021",
+                    "position": 1,
+                    "height": 2,
+                    "picture": "",
+                    "description": "bes node",
+                    "dataSource": "file:///g:/WorkDir/doc/html5/机柜/bws0011.json"
+            },
+            {
+                    "machineName": "aws0022",
+                    "position": 1,
+                    "height": 2,
+                    "picture": "",
+                    "description": "bes node",
+                    "dataSource": "file:///g:/WorkDir/doc/html5/机柜/bws0011.json"                    
+            },
+            {
+                    "machineName": "aws0023",
+                    "position": 1,
+                    "height": 2,
+                    "picture": "",
+                    "description": "bes node",
+                    "dataSource": "file:///g:/WorkDir/doc/html5/机柜/bws0011.json"
+            },
+            {
+                    "machineName": "aws0024",
+                    "position": 1,
+                    "height": 2,
+                    "picture": "",
+                    "description": "bes node",
+                    "dataSource": "file:///g:/WorkDir/doc/html5/机柜/bws0011.json"                    
+            },
+            {
+                    "machineName": "aws0025",
+                    "position": 1,
+                    "height": 2,
+                    "picture": "",
+                    "description": "bes node",
+                    "dataSource": "file:///g:/WorkDir/doc/html5/机柜/bws0011.json"
+            },
+            {
+                    "machineName": "aws0026",
+                    "position": 1,
+                    "height": 2,
+                    "picture": "",
+                    "description": "bes node",
+                    "dataSource": "file:///g:/WorkDir/doc/html5/机柜/bws0011.json"                    
+            },
+            {
+                    "machineName": "aws0027",
+                    "position": 1,
+                    "height": 2,
+                    "picture": "",
+                    "description": "bes node",
+                    "dataSource": "file:///g:/WorkDir/doc/html5/机柜/bws0011.json"
+            },
+            {
+                    "machineName": "aws0028",
+                    "position": 1,
+                    "height": 2,
+                    "picture": "",
+                    "description": "bes node",
+                    "dataSource": "file:///g:/WorkDir/doc/html5/机柜/bws0011.json"                    
+            },
+            {
+                    "machineName": "aws0029",
+                    "position": 1,
+                    "height": 2,
+                    "picture": "",
+                    "description": "bes node",
+                    "dataSource": "file:///g:/WorkDir/doc/html5/机柜/bws0011.json"
+            },
+            {
+                    "machineName": "aws0030",
+                    "position": 1,
+                    "height": 2,
+                    "picture": "",
+                    "description": "bes node",
+                    "dataSource": "file:///g:/WorkDir/doc/html5/机柜/bws0011.json"                    
+            },
+            {
+                    "machineName": "aws0031",
+                    "position": 1,
+                    "height": 2,
+                    "picture": "",
+                    "description": "bes node",
+                    "dataSource": "file:///g:/WorkDir/doc/html5/机柜/bws0011.json"
+            }
+            
+                
+            ]
+        }
+       
+   ]
+}

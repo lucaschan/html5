@@ -1,0 +1,43 @@
+<style type="test/css" media="screen">
+        body { background:#eee;
+         margin:0 ;
+         overflow:scroll;
+        }
+        svg {
+            display: block;
+            border:1px solid:#ccc;
+            position:absolute;
+           
+            background:#fff;
+        }
+       
+    <style type="text/css">
+
+        #center { MARGIN-RIGHT: auto; MARGIN-LEFT: auto; } 
+        #dhtmltooltip{
+            font-size: 180px;
+            position: absolute;
+            width: 250px;
+            border: 2px solid black;
+            padding: 20px;
+            background-color: white;
+            visibility: hidden;
+            z-index: 100;
+            /*Remove below line to remove shadow. Below line should always appear last within this CSS */
+            }
+        
+       #tooltip{
+            font-size: 18px;
+            position: absolute;
+            width: 120px;
+            border: 2px solid black;
+            padding: 2px;
+            background-color: white;
+            visibility: hidden;
+            z-index: 100;
+            /*Remove below line to remove shadow. Below line should always appear last within this CSS*/
+            }
+
+    </style>
+ 
+    </style>
